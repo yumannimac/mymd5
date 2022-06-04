@@ -88,10 +88,12 @@ $$
 
 $$
 \newcommand{\alk}{\alpha}
+\require{physics}
+\usepackage{physics}
 $$
 
 $$
-\alk+
+\alk+\dv{a}{b}
 $$
 
 $$
