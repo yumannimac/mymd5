@@ -14,7 +14,8 @@ chtml: {
 matchFontHeight: false
 }
 };
-</script>
+		</script>
+
 
 <style>
 img{
@@ -30,8 +31,7 @@ max-width:100%;
 <script src="https: //blz-soft.github.io/md_style/release/v1.2/md_style.js" ></script>
 
 
-
-<!-- $$
+$$
 \newcommand{\l}{\left}
 \newcommand{\r}{\right}
 \newcommand{\mqty}[1]{\begin{matrix}#1\end{matrix}}
@@ -41,7 +41,7 @@ max-width:100%;
 \newcommand{\drac}[2]{\mathchoice{\dfrac{\, #1\, }{\, #2 \,}}{\dfrac{\, #1\, }{\, #2 \, }}{\scriptstyle\frac{#1}{#2}}{\scriptscriptstyle\frac{#1}{#2}}}
 \newcommand{\bm}[1]{\boldsymbol{#1}}
 \require{phisics}
-$$ -->
+$$
 
 もし$\ x<0$ ならば
 $\ x+1=0\l(\drac{1}{2}\r)^2$ であるから
