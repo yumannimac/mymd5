@@ -31,7 +31,7 @@ max-width:100%;
 
 
 
-$$
+<!-- $$
 \newcommand{\l}{\left}
 \newcommand{\r}{\right}
 \newcommand{\mqty}[1]{\begin{matrix}#1\end{matrix}}
@@ -41,10 +41,10 @@ $$
 \newcommand{\drac}[2]{\mathchoice{\dfrac{\, #1\, }{\, #2 \,}}{\dfrac{\, #1\, }{\, #2 \, }}{\scriptstyle\frac{#1}{#2}}{\scriptscriptstyle\frac{#1}{#2}}}
 \newcommand{\bm}[1]{\boldsymbol{#1}}
 \require{phisics}
-$$
+$$ -->
 
-もし\(\ x<0\) ならば
-\(\ x+1=0\l(\drac{1}{2}\r)^2\) であるから
+もし$\ x<0$ ならば
+$\ x+1=0\l(\drac{1}{2}\r)^2$ であるから
 
 
 $$
@@ -106,7 +106,7 @@ $$
 \sin x+\cos x=1
 $$
 
-\(\ \sin x+\cos x\) は\(\ x\) が実数の時近似可能であり
+$\ \sin x+\cos x$ は$\ x$ が実数の時近似可能であり
 
 $$
 \mqty{
@@ -119,14 +119,15 @@ $$
 \sin x+\cos x=1
 $$
 
-なので\(\ \forall x\in \mathbb{R}\) に対して
-成り立つ。さて\(\ \sin x+\cos x=1\) としよう。\(\ \forall x\in y\) に対してここで\(\ \sin x+\cos x\) \(\ \l(\drac{1}{2}\r)^2+1=0   \) なので
+なので$\ \forall x\in \mathbb{R}$ に対して
+成り立つ。さて$\ \sin x+\cos x=1$ としよう。$\ \forall x\in y$ に対してここで$\ \sin x+\cos x$ $\ \l(\drac{1}{2}\r)^2+1=0   $ なので
 $\,\sin x+\cos x=1\,$ を用いて.$\sin x+\cos x=1$.として .$\,\sin x+\cos x=1\,$ より. here you see.$. \sin x+\cos x=1.$.なので.$. \sin x+\cos x=1.$.として.$. x \cos x \sin x .$.は
 .$\, \pmqty{1& 2\\3& 4}\,$.のとき'$\, \pmqty{1& 2\\3& 4} \,$'
-任意の'$\ x\in \mathbb{R} \,$"に対して'$\ x \,$'は'$\ y \,$'よりも大きいので\(a\)に対して\(b\) は \(c\) よりも大きい。 \(\sin x+\cos x=0\) になる条件は
+任意の'$\ x\in \mathbb{R} \,$"に対して'$\ x \,$'は'$\ y \,$'よりも大きいので$a$に対して$b$ は $c$ よりも大きい。 $\sin x+\cos x=0$ になる条件は
 
 $$
 x+\cos x=0
 $$
 
-である。 \(\pmqty{1& 2}\) としても \(\pmqty{3& 4}\) としても
+である。 $\pmqty{1& 2}$ としても $\pmqty{3& 4}$ としても
+もしも $\sin x+\cos x=\tan x$ では`\sin x+_{}`から`\sin x+\cos x=1`のように記述する。
