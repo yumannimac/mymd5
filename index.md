@@ -13,8 +13,7 @@ packages: { '[+]': ['physics', 'newcommand', 'mathtools'] },
 chtml: {
 matchFontHeight: false
 }
-};
-		</script>
+};</script>
 
 
 <style>
@@ -43,7 +42,7 @@ $$
 \require{phisics}
 $$
 
-もし$\ x<0$ ならば
+もし$x<0$ ならば
 $\ x+1=0\l(\drac{1}{2}\r)^2$ であるから
 
 
