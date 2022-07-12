@@ -39,7 +39,6 @@ $$
 \newcommand{\dis}{\displaystyle}
 \newcommand{\drac}[2]{\mathchoice{\dfrac{\, #1\, }{\, #2 \,}}{\dfrac{\, #1\, }{\, #2 \, }}{\scriptstyle\frac{#1}{#2}}{\scriptscriptstyle\frac{#1}{#2}}}
 \newcommand{\bm}[1]{\boldsymbol{#1}}
-\require{phisics}
 $$
 
 もし$x<0$ ならば
